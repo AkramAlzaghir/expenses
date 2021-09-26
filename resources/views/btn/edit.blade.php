@@ -1,0 +1,1 @@
+<a href="{{Request::url().'/'.$id.'/edit'}}" class="btn btn-info">Edit</a>
